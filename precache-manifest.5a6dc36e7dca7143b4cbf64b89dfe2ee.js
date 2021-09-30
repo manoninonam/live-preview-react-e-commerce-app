@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "750bff9385c08058c8c434207f7fb9a1",
+    "revision": "4ac116d36804b7eb28708617794c3020",
     "url": "/live-preview-react-e-commerce-app/index.html"
   },
   {
-    "revision": "47de7538981a414eb8ba",
-    "url": "/live-preview-react-e-commerce-app/static/css/main.3fd00c1f.chunk.css"
+    "revision": "b8fa936bd8a3ff9c2bef",
+    "url": "/live-preview-react-e-commerce-app/static/css/main.29923734.chunk.css"
   },
   {
-    "revision": "5699d9886a658386837d",
-    "url": "/live-preview-react-e-commerce-app/static/js/2.d9e4d6e5.chunk.js"
+    "revision": "05265168f541e7a5c6d8",
+    "url": "/live-preview-react-e-commerce-app/static/js/2.541b5bad.chunk.js"
   },
   {
     "revision": "ea12c3c9e389454782f67b94c39904cd",
-    "url": "/live-preview-react-e-commerce-app/static/js/2.d9e4d6e5.chunk.js.LICENSE.txt"
+    "url": "/live-preview-react-e-commerce-app/static/js/2.541b5bad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47de7538981a414eb8ba",
-    "url": "/live-preview-react-e-commerce-app/static/js/main.8175c09d.chunk.js"
+    "revision": "b8fa936bd8a3ff9c2bef",
+    "url": "/live-preview-react-e-commerce-app/static/js/main.9a1f3f64.chunk.js"
   },
   {
     "revision": "7594b595efeb36da62d8",

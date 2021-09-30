@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/live-preview-react-e-commerce-app/static/css/main.3fd00c1f.chunk.css",
-    "main.js": "/live-preview-react-e-commerce-app/static/js/main.8175c09d.chunk.js",
-    "main.js.map": "/live-preview-react-e-commerce-app/static/js/main.8175c09d.chunk.js.map",
+    "main.css": "/live-preview-react-e-commerce-app/static/css/main.29923734.chunk.css",
+    "main.js": "/live-preview-react-e-commerce-app/static/js/main.9a1f3f64.chunk.js",
+    "main.js.map": "/live-preview-react-e-commerce-app/static/js/main.9a1f3f64.chunk.js.map",
     "runtime-main.js": "/live-preview-react-e-commerce-app/static/js/runtime-main.7ecaf6d8.js",
     "runtime-main.js.map": "/live-preview-react-e-commerce-app/static/js/runtime-main.7ecaf6d8.js.map",
-    "static/js/2.d9e4d6e5.chunk.js": "/live-preview-react-e-commerce-app/static/js/2.d9e4d6e5.chunk.js",
-    "static/js/2.d9e4d6e5.chunk.js.map": "/live-preview-react-e-commerce-app/static/js/2.d9e4d6e5.chunk.js.map",
+    "static/js/2.541b5bad.chunk.js": "/live-preview-react-e-commerce-app/static/js/2.541b5bad.chunk.js",
+    "static/js/2.541b5bad.chunk.js.map": "/live-preview-react-e-commerce-app/static/js/2.541b5bad.chunk.js.map",
     "index.html": "/live-preview-react-e-commerce-app/index.html",
-    "precache-manifest.363bdc98fff838d09bf44a662c079c20.js": "/live-preview-react-e-commerce-app/precache-manifest.363bdc98fff838d09bf44a662c079c20.js",
+    "precache-manifest.5a6dc36e7dca7143b4cbf64b89dfe2ee.js": "/live-preview-react-e-commerce-app/precache-manifest.5a6dc36e7dca7143b4cbf64b89dfe2ee.js",
     "service-worker.js": "/live-preview-react-e-commerce-app/service-worker.js",
-    "static/css/main.3fd00c1f.chunk.css.map": "/live-preview-react-e-commerce-app/static/css/main.3fd00c1f.chunk.css.map",
-    "static/js/2.d9e4d6e5.chunk.js.LICENSE.txt": "/live-preview-react-e-commerce-app/static/js/2.d9e4d6e5.chunk.js.LICENSE.txt",
+    "static/css/main.29923734.chunk.css.map": "/live-preview-react-e-commerce-app/static/css/main.29923734.chunk.css.map",
+    "static/js/2.541b5bad.chunk.js.LICENSE.txt": "/live-preview-react-e-commerce-app/static/js/2.541b5bad.chunk.js.LICENSE.txt",
     "static/media/app.css": "/live-preview-react-e-commerce-app/static/media/YoungSerif-Regular.bde5ee94.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.7ecaf6d8.js",
-    "static/js/2.d9e4d6e5.chunk.js",
-    "static/css/main.3fd00c1f.chunk.css",
-    "static/js/main.8175c09d.chunk.js"
+    "static/js/2.541b5bad.chunk.js",
+    "static/css/main.29923734.chunk.css",
+    "static/js/main.9a1f3f64.chunk.js"
   ]
 }
