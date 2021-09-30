@@ -20,15 +20,15 @@ const INITIAL_STATE = {
         images: {
           main: {
             id: 1,
-            url: "%PUBLIC_URL%/assets/images/sanseveria_main.jpg"
+            url: "./assets/images/sanseveria_main.jpg"
           },
           details: [{
             imageId: 1,
-            url: "%PUBLIC_URL%/assets/images/sanseveria_main.jpg",
+            url: "./assets/images/sanseveria_main.jpg",
           },
           {
             imageId: 2,
-            url: "%PUBLIC_URL%/assets/images/sanseveria_detail1.jpg",
+            url: "./assets/images/sanseveria_detail1.jpg",
           },
           {
             imageId: 3,
