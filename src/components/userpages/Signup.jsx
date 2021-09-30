@@ -55,7 +55,7 @@ export default function Signup() {
           Already have an account? <Link to="/login">Log in</Link>
         </div>
       </div>
-      <img src="../assets/images/pexels-cottonbro-4505458.jpg" alt="room with plant"/>
+      <img src="assets/images/pexels-cottonbro-4505458.jpg" alt="room with plant"/>
     </div>
   );
 }

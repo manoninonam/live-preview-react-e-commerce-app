@@ -20,22 +20,22 @@ const ProductDetails = ({ current, addToCart }) => {
 
         <div className="product-details-info">
           <div className="product-details-logo">
-            <img src="../assets/images/icons/mos-icons-heightplant.svg" alt="aircleaner-icon" />
+            <img src="assets/images/icons/mos-icons-heightplant.svg" alt="aircleaner-icon" />
           </div>
           <div className="product-details-logo">
-            <img src="../assets/images/icons/mos-icons-widthplant.svg" alt="width-icon" />
+            <img src="assets/images/icons/mos-icons-widthplant.svg" alt="width-icon" />
           </div>
           <div className="product-details-logo">
-            <img src="../assets/images/icons/mos-icons-aircleaner.svg" alt="benefits-icon" />
+            <img src="assets/images/icons/mos-icons-aircleaner.svg" alt="benefits-icon" />
           </div>
           <div className="product-details-logo">
-            <img src="../assets/images/icons/mos-icons-water.svg" alt="care-icon" />
+            <img src="assets/images/icons/mos-icons-water.svg" alt="care-icon" />
           </div>
           <div className="product-details-logo">
-            <img src="../assets/images/icons/mos-icons-suncloud.svg" alt="placing-icon" />
+            <img src="assets/images/icons/mos-icons-suncloud.svg" alt="placing-icon" />
           </div>
           <div className="product-details-logo">
-            <img src="../assets/images/icons/mos-icons-sun.svg" alt="placing-icon" />
+            <img src="assets/images/icons/mos-icons-sun.svg" alt="placing-icon" />
           </div>
 
         </div>

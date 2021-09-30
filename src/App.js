@@ -5,7 +5,6 @@ import {
   Route,
   Redirect,
 } from "react-router-dom";
-import { ModalContainer, ModalRoute } from 'react-router-modal';
 import './styles/app.css'
 
 import { connect } from "react-redux";
@@ -55,8 +54,8 @@ function App({ current }) {
             <PrivateRoute exact path="/dashboard" component={Dashboard} />
             <PrivateRoute path="/update-profile" component={UpdateProfile} />
             <Route path="/signup" component={Signup} />
-            <ModalRoute path="/login" component={Login} />
-            <ModalRoute path="/password-reset" component={ForgotPassword} />
+            <Route path="/login" component={Login} />
+            <Route path="/password-reset" component={ForgotPassword} />
             {/* <Route exact path="/products" component={ProductOverview} /> */}
             <Route path="/plants" component={PlantsOverview} />
             <Route path="/driedflowers" component={DriedFlowersOverview} />
@@ -68,7 +67,7 @@ function App({ current }) {
               <Route exact path="/product/:id" component={ProductDetails} />
             )}
           </Switch>
-          <ModalContainer />
+         
         
       </div>
     </Router>

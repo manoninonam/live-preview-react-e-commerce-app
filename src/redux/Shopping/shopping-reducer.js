@@ -20,23 +20,23 @@ const INITIAL_STATE = {
         images: {
           main: {
             id: 1,
-            url: "./assets/images/sanseveria_main.jpg"
+            url: "assets/images/sanseveria_main.jpg"
           },
           details: [{
             imageId: 1,
-            url: "./assets/images/sanseveria_main.jpg",
+            url: "assets/images/sanseveria_main.jpg",
           },
           {
             imageId: 2,
-            url: "./assets/images/sanseveria_detail1.jpg",
+            url: "assets/images/sanseveria_detail1.jpg",
           },
           {
             imageId: 3,
-            url: "%PUBLIC_URL%/assets/images/sanseveria_detail2.jpg"
+            url: "assets/images/sanseveria_detail2.jpg"
           },
           {
             imageId: 4,
-            url: "%PUBLIC_URL%/assets/images/sanseveria_detail3.jpg"
+            url: "assets/images/sanseveria_detail3.jpg"
           }
           ]
         },
@@ -59,24 +59,24 @@ const INITIAL_STATE = {
         images: {
           main: {
             ImageId: 1,
-            url: "../assets/images/philo_scandens_main.jpg"
+            url: "assets/images/philo_scandens_main.jpg"
           },
           details: [
             {
               imageId: 1,
-              url: "../assets/images/philo_scandens_main.jpg",
+              url: "assets/images/philo_scandens_main.jpg",
             },
             {
               imageId: 2,
-              url: "../assets/images/philo_scandens_detail1.jpg",
+              url: "assets/images/philo_scandens_detail1.jpg",
             },
             {
               imageId: 3,
-              url: "../assets/images/philo_scandens_detail2.jpg"
+              url: "assets/images/philo_scandens_detail2.jpg"
             },
             {
               imageId: 4,
-              url: "../assets/images/philo_scandens_detail3.jpg"
+              url: "assets/images/philo_scandens_detail3.jpg"
             }
           ]
         }
@@ -99,23 +99,23 @@ const INITIAL_STATE = {
         images: {
           main: {
             imaggeId: 1,
-            url: "../assets/images/monstera_main.jpg"
+            url: "assets/images/monstera_main.jpg"
           },
           details: [{
             imageId: 1,
-            url: "../assets/images/monstera_main.jpg",
+            url: "assets/images/monstera_main.jpg",
           },
           {
             imageId: 2,
-            url: "../assets/images/monstera_detail1.jpg",
+            url: "assets/images/monstera_detail1.jpg",
           },
           {
             imageId: 3,
-            url: "../assets/images/monstera_detail2.jpg"
+            url: "assets/images/monstera_detail2.jpg"
           },
           {
             imageId: 4,
-            url: "../assets/images/monstera_detail3.jpg"
+            url: "assets/images/monstera_detail3.jpg"
           }
           ]
         }
@@ -138,23 +138,23 @@ const INITIAL_STATE = {
         images: {
           main: {
             imageId: 1,
-            url: "../assets/images/scindapsus_pictus_main.jpg"
+            url: "assets/images/scindapsus_pictus_main.jpg"
           },
           details: [{
             imageId: 1,
-            url: "../assets/images/scindapsus_pictus_main.jpg",
+            url: "assets/images/scindapsus_pictus_main.jpg",
           },
           {
             imageId: 2,
-            url: "../assets/images/scindapsus_pictus_detail1.jpg",
+            url: "assets/images/scindapsus_pictus_detail1.jpg",
           },
           {
             imageId: 3,
-            url: "../assets/images/scindapsus_pictus_detail2.jpg"
+            url: "assets/images/scindapsus_pictus_detail2.jpg"
           },
           {
             imageId: 4,
-            url: "../assets/images/scindapsus_pictus_detail3.jpg"
+            url: "assets/images/scindapsus_pictus_detail3.jpg"
           }
           ]
         }
@@ -177,23 +177,23 @@ const INITIAL_STATE = {
         images: {
           main: {
             imageId: 1,
-            url: "../assets/images/cactus_trio_main.jpg"
+            url: "assets/images/cactus_trio_main.jpg"
           },
           details: [{
             imageId: 1,
-            url: "../assets/images/cactus_trio_main.jpg",
+            url: "assets/images/cactus_trio_main.jpg",
           },
           {
             imageId: 2,
-            url: "../assets/images/cactus_trio_detail1.jpg",
+            url: "assets/images/cactus_trio_detail1.jpg",
           },
           {
             imageId: 3,
-            url: "../assets/images/cactus_trio_detail2.jpg"
+            url: "assets/images/cactus_trio_detail2.jpg"
           },
           {
             imageId: 4,
-            url: "../assets/images/cactus_trio_detail3.jpg"
+            url: "assets/images/cactus_trio_detail3.jpg"
           }
           ]
         }
@@ -216,20 +216,20 @@ const INITIAL_STATE = {
         images: {
           main: {
             imageId: 1,
-            url: "../assets/images/hoya_kerri_main.jpg"
+            url: "assets/images/hoya_kerri_main.jpg"
           },
           details: [
             {
               imageId: 1,
-              url: "../assets/images/hoya_kerri_main.jpg"
+              url: "assets/images/hoya_kerri_main.jpg"
             },
             {
               imageId: 2,
-              url: "../assets/images/hoya_kerri_detail1.jpg",
+              url: "assets/images/hoya_kerri_detail1.jpg",
             },
             {
               imageId: 3,
-              url: "../assets/images/hoya_kerri_detail2.jpg"
+              url: "assets/images/hoya_kerri_detail2.jpg"
             },
           ]
         }
@@ -254,20 +254,20 @@ const INITIAL_STATE = {
     images: {
       main: {
         imageId: 1,
-        url: "../assets/images/eryngium_strauss_main.jpg"
+        url: "assets/images/eryngium_strauss_main.jpg"
       },
       details: [
         {
           imageId: 1,
-          url: "../assets/images/eryngium_strauss_main.jpg"
+          url: "assets/images/eryngium_strauss_main.jpg"
         },
         {
           imageId: 2,
-          url: "../assets/images/eryngium_strauss_detail1.jpg",
+          url: "assets/images/eryngium_strauss_detail1.jpg",
         },
         {
           imageId: 3,
-          url: "../assets/images/eryngium_strauss_detail2.jpg"
+          url: "assets/images/eryngium_strauss_detail2.jpg"
         },
       ]
     }
@@ -275,7 +275,7 @@ const INITIAL_STATE = {
   {
     id: 22,
     category: "driedflowers",
-    title: "Moby Dick",
+    title: "Moby",
     caption:
       "Leuk voor je moeder.",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
@@ -289,20 +289,20 @@ const INITIAL_STATE = {
     images: {
       main: {
         imageId: 1,
-        url: "../assets/images/mobydick_strauss_main.jpg"
+        url: "assets/images/mobydick_strauss_main.jpg"
       },
       details: [
         {
           imageId: 1,
-          url: "../assets/images/mobydick_strauss_main.jpg"
+          url: "assets/images/mobydick_strauss_main.jpg"
         },
         {
           imageId: 2,
-          url: "../assets/images/mobydick_strauss_detail1.jpg",
+          url: "assets/images/mobydick_strauss_detail1.jpg",
         },
         {
           imageId: 3,
-          url: "../assets/images/mobydick_strauss_detail2.jpg"
+          url: "assets/images/mobydick_strauss_detail2.jpg"
         },
       ]
     }
@@ -325,20 +325,20 @@ const INITIAL_STATE = {
     images: {
       main: {
         imageId: 1,
-        url: "../assets/images/setaria_main.jpg"
+        url: "assets/images/setaria_main.jpg"
       },
       details: [
         {
           imageId: 1,
-          url: "../assets/images/setaria_main.jpg"
+          url: "assets/images/setaria_main.jpg"
         },
         {
           imageId: 2,
-          url: "../assets/images/setaria_detail1.jpg",
+          url: "assets/images/setaria_detail1.jpg",
         },
         {
           imageId: 3,
-          url: "../assets/images/setaria_detail2.jpg"
+          url: "assets/images/setaria_detail2.jpg"
         },
       ]
     }
@@ -368,16 +368,16 @@ const INITIAL_STATE = {
     images: {
       main: {
         imageId: 1,
-        url: "../assets/images/plantlamp_main.jpg"
+        url: "assets/images/plantlamp_main.jpg"
       },
       details: [
         {
           imageId: 1,
-          url: "../assets/images/plantlamp_main.jpg"
+          url: "assets/images/plantlamp_main.jpg"
         },
         {
           imageId: 2,
-          url: "../assets/images/plantlamp_detail1.jpg",
+          url: "assets/images/plantlamp_detail1.jpg",
         },
       ]
     }
@@ -400,16 +400,16 @@ const INITIAL_STATE = {
     images: {
       main: {
         imageId: 1,
-        url: "../assets/images/wateringcan_main.jpg"
+        url: "assets/images/wateringcan_main.jpg"
       },
       details: [
         {
           imageId: 1,
-          url: "../assets/images/wateringcan_main.jpg"
+          url: "assets/images/wateringcan_main.jpg"
         },
         {
           imageId: 2,
-          url: "../assets/images/wateringcan_detail1.jpg",
+          url: "assets/images/wateringcan_detail1.jpg",
         },
       ]
     }
@@ -432,16 +432,16 @@ const INITIAL_STATE = {
     images: {
       main: {
         imageId: 1,
-        url: "../assets/images/plantanimal_main.jpg"
+        url: "assets/images/plantanimal_main.jpg"
       },
       details: [
         {
           imageId: 1,
-          url: "../assets/images/plantanimal_main.jpg"
+          url: "assets/images/plantanimal_main.jpg"
         },
         {
           imageId: 2,
-          url: "../assets/images/plantanimal_detail1.jpg",
+          url: "assets/images/plantanimal_detail1.jpg",
         },
      
       ]

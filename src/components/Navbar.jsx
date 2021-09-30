@@ -43,7 +43,7 @@ const Navbar = ({ cart }) => {
       <div className="main-nav">
         <Link to="/">
             <div className="logo-container">
-              <img className="logo" src="../assets/images/logo.png" alt="logo" />
+              <img className="logo" src="assets/images/logo.png" alt="logo" />
               <p>The Greenery</p>
             </div>
           </Link>
