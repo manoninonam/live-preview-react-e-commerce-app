@@ -20,23 +20,23 @@ const INITIAL_STATE = {
         images: {
           main: {
             id: 1,
-            url: "../assets/images/sanseveria_main.jpg"
+            url: "%PUBLIC_URL%/assets/images/sanseveria_main.jpg"
           },
           details: [{
             imageId: 1,
-            url: "../assets/images/sanseveria_main.jpg",
+            url: "%PUBLIC_URL%/assets/images/sanseveria_main.jpg",
           },
           {
             imageId: 2,
-            url: "../assets/images/sanseveria_detail1.jpg",
+            url: "%PUBLIC_URL%/assets/images/sanseveria_detail1.jpg",
           },
           {
             imageId: 3,
-            url: "../assets/images/sanseveria_detail2.jpg"
+            url: "%PUBLIC_URL%/assets/images/sanseveria_detail2.jpg"
           },
           {
             imageId: 4,
-            url: "../assets/images/sanseveria_detail3.jpg"
+            url: "%PUBLIC_URL%/assets/images/sanseveria_detail3.jpg"
           }
           ]
         },
