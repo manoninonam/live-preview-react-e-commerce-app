@@ -1,5 +1,8 @@
 .footer-container {
+    position: absolute;
+    bottom: 0px;
     height: 50px;
+    width: 100%;
     background-color: var(--primary);
     color: white;
     display: flex;
@@ -12,6 +15,6 @@
 }
 
 .footer-sub-container p {
-    padding: 0 3px;
+    padding: 0 5px; 
 }
 
