@@ -4,7 +4,9 @@
 @import 'fonts.css';
 
 @import 'navbar.css';
+@import 'footer.css';
 @import 'auth-card.css';
+/* @import 'modal.css'; */
 @import 'image-viewer.css';
 
 @import 'homepage.css';
@@ -14,5 +16,5 @@
 
 @import 'shopping-cart.css';
 
-@import 'test.css';
+/* @import 'test.css'; */
 
