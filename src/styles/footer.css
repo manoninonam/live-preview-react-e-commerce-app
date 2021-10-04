@@ -1,14 +1,14 @@
 .footer-container {
-    position: fixed;
-    z-index: 100;
-    bottom: 0px;
-    height: 50px;
-    width: 100%;
+   
     background-color: var(--primary);
     color: white;
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: column;
     align-items: center;
+    padding: 10px 0;
+ 
+    
+  
 }
 
 .footer-sub-container {
@@ -16,6 +16,16 @@
 }
 
 .footer-sub-container p {
-    padding: 0 5px; 
+    padding: 0 3px;
+}
+
+@media only screen and (min-width: 850px) {
+
+    .footer-container {
+        flex-direction: row;
+        justify-content: space-evenly;
+        height: 50px;
+    }
+
 }
 

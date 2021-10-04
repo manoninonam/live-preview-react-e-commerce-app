@@ -23,6 +23,11 @@ a:active {
 
 }
 
+.app {
+  min-height: calc(100vh - 180px);
+}
+
+
 .page-container {
   margin-top: 130px;
   margin-bottom: 50px;
